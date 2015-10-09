@@ -1,0 +1,153 @@
+# depslib dependency file v1.0
+1405667825 source:/home/hp/projects/uva_acm/TwoSum_leetcode.cpp
+	<stdio.h>
+	<iostream>
+	<vector>
+	<algorithm>
+
+1405680461 source:/home/hp/projects/uva_acm/DoTheUntwist_hdu_1129.cpp
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<string>
+	<string.h>
+
+1405943656 source:/home/hp/projects/uva_acm/FactstoneBenchmark_hdu_1141.cpp
+	<stdio.h>
+	<iostream>
+	<string>
+	<stdlib.h>
+	<math.h>
+
+1407411027 source:/home/hp/projects/uva_acm/EddyDigitalRoots_hdu_1163_test.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+
+1407412650 source:/home/hp/projects/uva_acm/EddyDigitalRoots_hdu_1163.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+
+1408018508 source:/home/hp/projects/uva_acm/FootballScore_hdu_1225.cpp
+	<stdio.h>
+	<string.h>
+	<string>
+	<algorithm>
+
+1408447803 source:/home/hp/projects/uva_acm/APlusB_hdu_1228.cpp
+	<stdio.h>
+	<stack>
+	<string>
+	<iostream>
+
+1409742265 source:/home/hp/projects/uva_acm/SpreadString_hdu_1274.cpp
+	<stdio.h>
+	<string>
+	<iostream>
+	<stack>
+	<ctype.h>
+
+1409830859 source:/home/hp/projects/uva_acm/AContestingDecision_hdu_1304.cpp
+	<stdio.h>
+	<string.h>
+
+1409835529 source:/home/hp/projects/uva_acm/ImmediateDecodability_hdu_1305.cpp
+	<stdio.h>
+	<string>
+	<iostream>
+	<algorithm>
+	<vector>
+
+1410443212 source:/home/hp/projects/uva_acm/WhatDayIsIt_hdu_1308.cpp
+	<stdio.h>
+
+1411881005 source:/home/hp/projects/uva_acm/ExceptionTest.cpp
+	<stdio.h>
+	<string>
+	<iostream>
+
+1413249066 source:/home/hp/projects/uva_acm/MingmingRandomNum_RQN_1.cpp
+	<stdio.h>
+	<string.h>
+
+1413459661 source:/home/hp/projects/uva_acm/Ships_UVA_322.cpp
+	<stdio.h>
+	<string.h>
+
+1413899364 source:/home/hp/projects/uva_acm/NumericallySpeaking_hdu_1314.cpp
+	"BigData.h"
+	<stdio.h>
+	<string.h>
+	<string>
+
+1413899050 /home/hp/projects/uva_acm/BigData.h
+	<iostream>
+	<string>
+	<stdlib.h>
+	<stdio.h>
+
+1414141506 source:/home/hp/projects/uva_acm/Palindromes_hdu_1318.cpp
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
+1414476420 source:/home/hp/projects/uva_acm/Inversion_hdu_1320.cpp
+	<stdio.h>
+
+1414563840 source:/home/hp/projects/uva_acm/BasicallySpeaking_hdu_1335.cpp
+	<stdio.h>
+	<string.h>
+
+1415326205 source:/home/hp/projects/uva_acm/GamePrediction_hdu_1338.cpp
+	<stdio.h>
+	<string.h>
+	<algorithm>
+	<iostream>
+
+1415338499 source:/home/hp/projects/uva_acm/Lotto_hdu_1342.cpp
+	<stdio.h>
+
+1417690639 source:/home/hp/projects/uva_acm/TwoXModN_hdu_1395.cpp
+	<stdio.h>
+
+1418027390 source:/home/hp/projects/uva_acm/PalindromePrime_hdu_1431.cpp
+	<stdio.h>
+	<string.h>
+
+1419586531 source:/home/hp/projects/uva_acm/Joseph_hdu_1443.cpp
+	<stdio.h>
+	<string.h>
+
+1421239949 source:/home/hp/projects/uva_acm/MayaCalendar_hdu_1444.cpp
+	<stdio.h>
+	<map>
+	<string>
+	<iostream>
+
+1422601148 source:/home/hp/projects/uva_acm/WordCrosses_hdu_1462.cpp
+	<stdio.h>
+	<string.h>
+
+1423616141 source:/home/hp/projects/uva_acm/test_ans.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<map>
+	<queue>
+	<algorithm>
+
+1425523681 source:/home/hp/projects/uva_acm/TheMostDistantState_uva_10085.cpp
+	<stdio.h>
+	<string.h>
+	<time.h>
+
+1425625266 source:/home/hp/projects/uva_acm/Lsystem_uva_310.cpp
+	<stdio.h>
+	<iostream>
+	<string>
+	<map>
+	<queue>
+

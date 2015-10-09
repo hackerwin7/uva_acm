@@ -1,0 +1,81 @@
+Game #1
+cnt=6
+xxxxoooooo
+oooooxoooo
+oxooxxxooo
+xxooooooxx
+xoooxoooxx
+ooxxxxoooo
+oooooxxoox
+ooooooxoox
+ooooooooxx
+oooooooooo
+
+oxxxxooooo
+oooooxoooo
+oxooxxxooo
+xxooooooxx
+xoooxoooxx
+ooxxxxoooo
+oooooxxoox
+ooooooxoox
+ooooooooxx
+oooooooooo
+
+ooxxxxoooo
+oooooxoooo
+oxooxxxooo
+xxooooooxx
+xoooxoooxx
+ooxxxxoooo
+oooooxxoox
+ooooooxoox
+ooooooooxx
+oooooooooo
+
+oooxxxxooo
+oooooxoooo
+oxooxxxooo
+xxooooooxx
+xoooxoooxx
+ooxxxxoooo
+oooooxxoox
+ooooooxoox
+ooooooooxx
+oooooooooo
+
+ooooxxxxoo
+oooooxoooo
+oxooxxxooo
+xxooooooxx
+xoooxoooxx
+ooxxxxoooo
+oooooxxoox
+ooooooxoox
+ooooooooxx
+oooooooooo
+
+ooooxxxooo
+oooooxoooo
+oxooxxxxoo
+xxooooooxx
+xoooxoooxx
+ooxxxxoooo
+oooooxxoox
+ooooooxoox
+ooooooooxx
+oooooooooo
+
+pot grid:
+5 1 1#4 2 1#3 3 1#2 4 1#1 5 1#2 4 1#3 3 1#5 1 1#6 0 0#6 0 0#
+6 0 0#6 0 0#6 0 0#6 0 0#6 0 0#0 6 0#6 0 0#6 0 0#6 0 0#6 0 0#
+6 0 0#0 6 0#6 0 0#6 0 0#0 6 0#0 6 0#0 6 0#5 1 1#6 0 0#6 0 0#
+0 6 0#0 6 0#6 0 0#6 0 0#6 0 0#6 0 0#6 0 0#6 0 0#0 6 0#0 6 0#
+0 6 0#6 0 0#6 0 0#6 0 0#0 6 0#6 0 0#6 0 0#6 0 0#0 6 0#0 6 0#
+6 0 0#6 0 0#0 6 0#0 6 0#0 6 0#0 6 0#6 0 0#6 0 0#6 0 0#6 0 0#
+6 0 0#6 0 0#6 0 0#6 0 0#6 0 0#0 6 0#0 6 0#6 0 0#6 0 0#0 6 0#
+6 0 0#6 0 0#6 0 0#6 0 0#6 0 0#6 0 0#0 6 0#6 0 0#6 0 0#0 6 0#
+6 0 0#6 0 0#6 0 0#6 0 0#6 0 0#6 0 0#6 0 0#6 0 0#0 6 0#0 6 0#
+6 0 0#6 0 0#6 0 0#6 0 0#6 0 0#6 0 0#6 0 0#6 0 0#6 0 0#6 0 0#
+yes.
+
